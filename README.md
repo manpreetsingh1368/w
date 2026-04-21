@@ -1,1 +1,15 @@
-# w
+References
+Sirois, F. M. (2004). Procrastination and intentions to perform health behaviors: The role of self‐efficacy and the consideration of future consequences. Personality and Individual Differences, 37(1), 115–128. https://doi.org/10.1016/j.paid.2003.08.005
+Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94. https://doi.org/10.1037/0033-2909.133.1.65
+Tuckman, B. W. (1991). The development and concurrent validity of the procrastination scale. Educational and Psychological Measurement, 51(2), 473–480. https://doi.org/10.1177/0013164491512022
+
+Research Question:
+To what extent does academic procrastination reflect a failure of self-regulation versus a deliberate emotional coping strategy, and how do individual and contextual factors shape which pattern predominates?
+Thesis:
+Taken together, Steel (2007), Park and Sperling (2012), and Sufeh et al. (2026) demonstrate that academic procrastination is a multidimensional behavior shaped by the interaction of self-regulatory capacity, emotional coping processes, and contextual demands. While self-regulatory failure is the most consistent predictor, emotional, cultural, and institutional factors shape when and why procrastination occurs.
+Claim	Steel (2007)	Park & Sperling (2012)	Sufeh et al. (2026)
+Self-regulation failure is the primary mechanism of procrastination	Procrastination = self-regulatory failure; linked to low conscientiousness (ρ = −.75), impulsiveness, low self-control (pp. 65, 78, 81).	Deficits in cognition, motivation, behavior regulation; weak time management, effort regulation, metacognition (pp. 15–16, 20).	Low self-efficacy, negative self-perception, irrational thinking; PSIAS confirms self-regulation deficits central (pp. 8–9).
+Procrastination functions as emotional avoidance of task aversiveness	Task aversiveness predicts delay (r̅ = .40); boredom proneness (ρ = .51); delay reduces discomfort (pp. 68, 75).	Overwhelm, fatigue, competing demands; “too many things to do” (pp. 17–18).	Emotion regulation function; delay more likely on cognitively demanding tasks (p. 9).
+Procrastination serves self-worth protection through self-handicapping	Strong link to self-handicapping (ρ = .61); protects self-esteem via delay (pp. 69, 77).	High self-handicapping (d = 1.48); failure attributed to delay rather than ability (pp. 16–17, 20).	Task avoidance as self-protection; cultural pressure intensifies fear of failure (p. 8).
+Expression of procrastination depends on individual and contextual factors	Temporal Motivation Theory: delay increases with low task value, distant deadlines, impulsivity; moderated by age/organization (pp. 71–72, 81–83).	Group differences: high procrastinators show strong behavioral correlations (r = .55) (pp. 16–17).	Sociocultural expectations and institutional constraints shape procrastination patterns (pp. 8–10).
+Existing models and tools are limited in scope and cultural validity	Overreliance on self-report; Western samples; trait emphasis overgeneralized (pp. 74, 83).	Small sample (N = 41); measurement inconsistencies (p. 21).	Western scales fail cross-cultural validity; PSIAS developed for contextual accuracy (pp. 4–5, 9–10).
