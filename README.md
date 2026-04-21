@@ -1,3 +1,14 @@
+Research Question:
+
+To what extent does academic procrastination reflect a failure of self-regulation versus a deliberate emotional coping strategy, and how do individual and contextual factors shape which pattern predominates?
+
+Thesis:
+
+Taken together, Steel (2007), Park and Sperling (2012), and Sufeh et al. (2026) demonstrate that academic procrastination is a multidimensional behavior shaped by the interaction of self-regulatory capacity, emotional coping processes, and contextual demands. While self-regulatory failure is the most consistent predictor, emotional, cultural, and institutional factors shape when and why procrastination occurs.
+
+
+
+
 | Claim                                                                      | Steel (2007)                                                                                                                                       | Park & Sperling (2012)                                                                                                          | Sufeh et al. (2026)                                                                                                          |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Self-regulation failure is the primary mechanism of procrastination        | Procrastination = self-regulatory failure; linked to low conscientiousness (ρ = −.75), impulsiveness, low self-control (pp. 65, 78, 81).           | Deficits in cognition, motivation, behavior regulation; weak time management, effort regulation, metacognition (pp. 15–16, 20). | Low self-efficacy, negative self-perception, irrational thinking; PSIAS confirms self-regulation deficits central (pp. 8–9). |
